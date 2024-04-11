@@ -6,8 +6,7 @@
 - [Data](#data)
 - [Notebooks](#notebooks)
 - [Configuration](#configuration)
-
-
+- [Contact Info](#contact-info)
 
 
 ## Introduction, Project Overview
@@ -109,6 +108,14 @@ This project is contained in a single .twb file.
 
 This work was performed on Tableau Professional Edition, 2023.3.4 (20233.24.0314.1442).
 
+
+## Contact Info
+If you have any questions about this project, I would love to speak with you! Please don't hesitate to reach out:
+
+- **Phone:** +1 778 995 7801
+- **Email:** [Drewe.MacIver@gmail.com](mailto:drewe.maciver@gmail.com)
+- **LinkedIn:** [Drewe MacIver on LinkedIn](https://www.linkedin.com/in/drewe-maciver/)
+- **Website:** [DreweItWithData.com](https://www.dreweitwithdata.com)
 
 If you have any questions about this project, I would love to speak with you!  Please don't hesitate to reach out:
 Phone: +1 778 995 7801
