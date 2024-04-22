@@ -11,7 +11,7 @@
 
 ## Introduction, Project Overview
 
-This project is to showcase my fluency with Tablau.
+This project is to showcase my fluency with Tableau.
 
 #### Goal:
 
